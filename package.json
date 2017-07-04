@@ -1,0 +1,19 @@
+{
+  "name": "excel-fuckenshit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/derasds4/excel-fuckenshit.git",
+  "author": "derasds4 <git@github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/webpack": "^3.0.1",
+    "@types/webpack-dev-server": "^2.4.0",
+    "@types/webpack-env": "^1.13.0",
+    "typescript": "^2.4.1",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  },
+  "dependencies": {
+    "ts-xlsx": "^0.0.11"
+  }
+}
